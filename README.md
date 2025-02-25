@@ -53,25 +53,6 @@
 
 ![Simplified Drive Architecture](static/simplified-drive-arch-diagram.jpg)
 
----
-
-## ⚙ **Prerequisites**
-
-To set up and run this project, you need:
-
-🔹 **AWS Account:**
-- Create an **Amazon AWS** account.
-- Set up an **S3 Bucket** for file storage.
-- Configure **CloudFront** for caching and performance.
-- Deploy on **Elastic Beanstalk** for scaling.
-- Use **Amazon RDS (MySQL)** for database storage.
-- Set up **CloudWatch Alarms** for monitoring.
-- Enable **AWS Lambda** for event notifications.
-
-🔹 **Software & Tools:**
-- Install **Node.js** ([Download Here](https://nodejs.org/en/))
-- Code Editor: **VS Code / Sublime Text / Notepad++**
-- AWS CLI for cloud management.
 
 ---
 
